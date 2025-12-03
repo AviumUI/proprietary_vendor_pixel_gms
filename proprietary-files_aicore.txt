@@ -1,0 +1,4 @@
+# Extracted from caiman-ota-bp4a.251205.006
+
+# AICore
+product/priv-app/AICorePrebuilt-aicore_20250130.00_RC01/AICorePrebuilt-aicore_20250130.00_RC01.apk;PRESIGNED
