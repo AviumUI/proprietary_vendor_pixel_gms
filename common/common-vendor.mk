@@ -169,14 +169,12 @@ PRODUCT_PACKAGES += \
     ScribePrebuilt_v8.4.773573318 \
     SearchSelectorPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
-    SetupWizardPrebuilt_v811313066 \
     TurboPrebuilt \
     Velvet \
     WellbeingPrebuilt \
     EmergencyInfoGoogleNoUi \
     Flipendo \
     GoogleServicesFramework \
-    SetupWizardPixelPrebuilt_v802960446 \
     StorageManagerGoogle \
     TurboAdapter
 

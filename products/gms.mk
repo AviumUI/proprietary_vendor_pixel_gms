@@ -32,22 +32,4 @@ PRODUCT_PRODUCT_PROPERTIES += \
 PRODUCT_PACKAGES += \
 	GoogleSettingsOverlay
 
-# SetupWizard Props
-PRODUCT_PRODUCT_PROPERTIES += \
-    ro.setupwizard.enterprise_mode=1 \
-    ro.setupwizard.esim_cid_ignore=00000001 \
-    setupwizard.feature.baseline_setupwizard_enabled=true \
-    setupwizard.feature.day_night_mode_enabled=true \
-    setupwizard.feature.enable_gil= \
-    setupwizard.feature.enable_quick_start_flow=true \
-    setupwizard.feature.enable_restore_anytime=true \
-    setupwizard.feature.enable_wifi_tracker=true \
-    setupwizard.feature.lifecycle_refactoring=true \
-    setupwizard.feature.notification_refactoring=true \
-    setupwizard.feature.portal_notification=true \
-    setupwizard.feature.provisioning_profile_mode=true
-
-PRODUCT_PRODUCT_PROPERTIES += \
-    setupwizard.theme=glif_v4_light
-
 $(call inherit-product, vendor/pixel/gms/common/common-vendor.mk)

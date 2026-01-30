@@ -155,7 +155,6 @@ product/overlay/PixelConfigOverlay2019Midyear.apk:product/overlay/PixelConfigOve
 product/overlay/PixelConfigOverlay2021.apk:product/overlay/PixelConfigOverlay2021_GMS.apk
 product/overlay/PixelConfigOverlayCommon.apk:product/overlay/PixelConfigOverlayCommon_GMS.apk
 product/overlay/PixelDocumentsUIGoogleOverlay/PixelDocumentsUIGoogleOverlay.apk:product/overlay/PixelDocumentsUIGoogleOverlay_GMS.apk
-product/overlay/PixelSetupWizardOverlay2024.apk:product/overlay/PixelSetupWizardOverlay2024_GMS.apk
 product/overlay/SettingsGoogle__caiman__auto_generated_rro_product.apk:product/overlay/SettingsOverlay_GMS.apk
 product/overlay/SettingsProvider__caiman__auto_generated_rro_product.apk:product/overlay/SettingsProviderOverlay_GMS.apk
 product/overlay/SystemUIGoogle__caiman__auto_generated_rro_product.apk:product/overlay/SystemUIOverlay_GMS.apk
@@ -201,8 +200,6 @@ product/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk;OVERRIDES
 product/priv-app/GoogleRestorePrebuilt-v842048/GoogleRestorePrebuilt-v842048.apk;PRESIGNED
 product/priv-app/PartnerSetupPrebuilt/PartnerSetupPrebuilt.apk;PRESIGNED
 product/priv-app/SearchSelectorPrebuilt/SearchSelectorPrebuilt.apk;PRESIGNED
-product/priv-app/SetupWizardPrebuilt_v811313066/SetupWizardPrebuilt_v811313066.apk;OVERRIDES=Provision;PRESIGNED
-system_ext/priv-app/SetupWizardPixelPrebuilt_v802960446/SetupWizardPixelPrebuilt_v802960446.apk;OVERRIDES=LineageSetupWizard;PRESIGNED
 
 # Sound
 product/app/SoundAmplifierPrebuilt_v4.8.758106410/SoundAmplifierPrebuilt_v4.8.758106410.apk;PRESIGNED

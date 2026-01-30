@@ -20,9 +20,7 @@ product/priv-app/PrebuiltGmsCore/m/independent/AndroidPlatformServices/AndroidPl
 product/priv-app/SafetyHubPrebuilt/SafetyHubPrebuilt.apk;LIBS=androidx.window.extensions,androidx.window.sidecar
 product/priv-app/SearchSelectorPrebuilt/SearchSelectorPrebuilt.apk;LIBS=androidx.window.extensions,androidx.window.sidecar
 product/priv-app/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk;LIBS=androidx.window.extensions,androidx.window.sidecar
-product/priv-app/SetupWizardPrebuilt_v811313066/SetupWizardPrebuilt_v811313066.apk;LIBS=androidx.window.extensions,androidx.window.sidecar
 product/priv-app/TurboPrebuilt/TurboPrebuilt.apk;LIBS=androidx.window.extensions,androidx.window.sidecar
 product/priv-app/Velvet/Velvet.apk;LIBS=androidx.window.extensions,androidx.window.sidecar
 product/priv-app/WellbeingPrebuilt/WellbeingPrebuilt.apk;LIBS=androidx.window.extensions,androidx.window.sidecar
 system_ext/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk;LIBS=androidx.window.extensions,androidx.window.sidecar
-system_ext/priv-app/SetupWizardPixelPrebuilt_v802960446/SetupWizardPixelPrebuilt_v802960446.apk;LIBS=androidx.window.extensions,androidx.window.sidecar

@@ -700,21 +700,6 @@ android_app_import {
 }
 
 android_app_import {
-	name: "SetupWizardPrebuilt_v811313066",
-	owner: "pixel/gms",
-	apk: "proprietary/product/priv-app/SetupWizardPrebuilt_v811313066/SetupWizardPrebuilt_v811313066.apk",
-    optional_uses_libs: ["androidx.window.extensions", "androidx.window.sidecar"],
-	overrides: ["Provision"],
-	preprocessed: true,
-	presigned: true,
-	dex_preopt: {
-		enabled: false,
-	},
-	privileged: true,
-	product_specific: true,
-}
-
-android_app_import {
 	name: "TurboPrebuilt",
 	owner: "pixel/gms",
 	apk: "proprietary/product/priv-app/TurboPrebuilt/TurboPrebuilt.apk",
@@ -784,21 +769,6 @@ android_app_import {
 	owner: "pixel/gms",
 	apk: "proprietary/system_ext/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk",
     optional_uses_libs: ["androidx.window.extensions", "androidx.window.sidecar"],
-	preprocessed: true,
-	presigned: true,
-	dex_preopt: {
-		enabled: false,
-	},
-	privileged: true,
-	system_ext_specific: true,
-}
-
-android_app_import {
-	name: "SetupWizardPixelPrebuilt_v802960446",
-	owner: "pixel/gms",
-	apk: "proprietary/system_ext/priv-app/SetupWizardPixelPrebuilt_v802960446/SetupWizardPixelPrebuilt_v802960446.apk",
-    optional_uses_libs: ["androidx.window.extensions", "androidx.window.sidecar"],
-	overrides: ["LineageSetupWizard"],
 	preprocessed: true,
 	presigned: true,
 	dex_preopt: {
